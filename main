@@ -1,0 +1,7 @@
+echo "# ds-design-system-tokens" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/alessandrolatour/ds-design-system-tokens.git
+git push -u origin main
